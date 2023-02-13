@@ -3,3 +3,5 @@ flask_restful
 flask_testing
 flask_caching
 stopwatch.py
+python-dotenv
+requests
