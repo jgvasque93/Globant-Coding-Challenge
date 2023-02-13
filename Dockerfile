@@ -1,5 +1,5 @@
 FROM python:3.8-slim-buster
-
+MAINTAINER Jordy Vasquez "jgvasque93@gmail.com"
 WORKDIR /python-docker
 
 COPY requirements.txt requirements.txt
